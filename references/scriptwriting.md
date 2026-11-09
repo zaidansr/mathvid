@@ -25,13 +25,14 @@ Write speech separately from displayed mathematics. Spell out how a listener sho
 ## Reel description
 
 Write a ready-to-post English description for every reel, usually two or three short sentences (roughly 35–65 words; use fewer when sufficient):
+- Identify the mathematical topic naturally in the opening, for example, “This graph theory problem…” or “This probability question…”. Choose the topic from the actual problem and method; mention a second subject only when it adds useful context.
 - Briefly state the problem in terms a viewer can understand.
 - Give the verified answer, preserving essential conditions, units, or multiple solutions.
 - Where useful, extract one key idea from the solution: the identity, observation, method, or reason the important step works. Omit this sentence when it would be forced or add no insight.
 
 Use the final checked solution and the actual explanation in the reel. If the supplied answer was corrected, use the corrected result. Keep the description natural and concise; avoid repeating the whole question or proof, unsupported generalizations, hype, and unrequested hashtags. This is publication copy delivered alongside the reel, separate from spoken narration and timed subtitles.
 
-Example: “Solve x² − 9 = 0 over the real numbers. The solutions are x = −3 and x = 3. Key idea: factor the difference of squares, then set each factor equal to zero.”
+Example: “This algebra question asks you to solve x² − 9 = 0 over the real numbers. The solutions are x = −3 and x = 3. Key idea: factor the difference of squares, then set each factor equal to zero.”
 
 Save the approved copy as `reel-description.txt` beside the final video and include it in the delivery message. Refresh it if the problem, answer, or explanation changes. Reviewer checks it before delivery.
 

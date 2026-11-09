@@ -8,7 +8,7 @@ Solve or independently verify the question before relying on the supplied soluti
 
 Compare every spoken claim and shown equation with that verified reasoning. Check that simplification for the one-minute format has not changed a condition or made a false generalization. Listen to spoken mathematical terms, fractions, negatives and indices; a correct transcript does not prove correct pronunciation. Check captions against actual speech and visual symbols. Report any correction to the user-provided solution explicitly.
 
-Check the reel description against the original problem and verified solution. Confirm the answer includes essential conditions, units, and all relevant cases, and that any key idea is supported by the solution and accurately reflects the reel. Check that the copy stays brief and that `reel-description.txt` matches the description delivered to the user.
+Check the reel description against the original problem and verified solution. Verify that its opening identifies an accurate mathematical topic. Confirm the answer includes essential conditions, units, and all relevant cases, and that any key idea is supported by the solution and accurately reflects the reel. Check that the copy stays brief and that `reel-description.txt` matches the description delivered to the user.
 
 ## Render and audio
 
