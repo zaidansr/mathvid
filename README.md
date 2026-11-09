@@ -4,6 +4,8 @@ A Codex skill for turning a maths question and its solution into an approximatel
 
 The mathematical level follows the question. Default output is 1080 × 1920 portrait at 30 fps, with burned-in captions and an SRT file. Visuals use black backgrounds, white mathematical typography, blue grids, and selective yellow highlights.
 
+Each reel also includes a short, ready-to-post description outlining the problem, the verified answer, and a useful key idea when one can be drawn from the solution. It is delivered as `reel-description.txt` and in the handoff message.
+
 ## Use
 
 Invoke `$mathvid` and provide:

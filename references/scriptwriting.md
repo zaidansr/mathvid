@@ -22,6 +22,19 @@ Use roughly 100 to 130 spoken words as an initial budget, with fewer words for d
 
 Write speech separately from displayed mathematics. Spell out how a listener should hear symbols, such as "x squared," "the natural log of x," or "one over the quantity x plus one." Disambiguate fractions, exponents, signs, and indices. Define a symbol before relying on it. Use conversational contractions where they sound natural, and reserve the last beat for the answer with any required condition.
 
+## Reel description
+
+Write a ready-to-post English description for every reel, usually two or three short sentences (roughly 35–65 words; use fewer when sufficient):
+- Briefly state the problem in terms a viewer can understand.
+- Give the verified answer, preserving essential conditions, units, or multiple solutions.
+- Where useful, extract one key idea from the solution: the identity, observation, method, or reason the important step works. Omit this sentence when it would be forced or add no insight.
+
+Use the final checked solution and the actual explanation in the reel. If the supplied answer was corrected, use the corrected result. Keep the description natural and concise; avoid repeating the whole question or proof, unsupported generalizations, hype, and unrequested hashtags. This is publication copy delivered alongside the reel, separate from spoken narration and timed subtitles.
+
+Example: “Solve x² − 9 = 0 over the real numbers. The solutions are x = −3 and x = 3. Key idea: factor the difference of squares, then set each factor equal to zero.”
+
+Save the approved copy as `reel-description.txt` beside the final video and include it in the delivery message. Refresh it if the problem, answer, or explanation changes. Reviewer checks it before delivery.
+
 ## Handoff to Coding and Voiceover
 
 Prepare a storyboard with one row per meaningful beat; use as many beats as the argument needs. Include a pronunciation note only when a symbol or name could be misread. Keep colors consistent: white for ordinary mathematics, yellow for the active expression or result, and blue for graphs or secondary structure on black.
