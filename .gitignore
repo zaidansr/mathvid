@@ -1,0 +1,23 @@
+# Local credentials and environments
+.env
+.env.*
+!.env.example
+elevenlabs.json
+.venv/
+venv/
+
+# Python and local tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+Thumbs.db
+
+# Production jobs and generated media
+work/
+outputs/
+media/
+*.mp3
+*.wav
+*.mp4
+*.zip

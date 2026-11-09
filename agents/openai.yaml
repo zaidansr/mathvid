@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mathvid"
+  short_description: "Create narrated maths reels with ManimGX"
+  default_prompt: "Use $mathvid to turn my question title, question, and solution into an approximately 60-second English maths reel."
